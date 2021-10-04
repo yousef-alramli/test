@@ -8,7 +8,6 @@ import {
   Modal,
   Form
 } from 'react-bootstrap'
-import { set } from 'mongoose';
 
 class FavFruit extends React.Component {
   constructor(props) {
